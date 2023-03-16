@@ -1,3 +1,3 @@
-# Acoustic-Guitar-OM1
+# OM-1
 My custom designed acoustic guitar.
-![Start Page](images/VredrayAlpha1.png?raw=true)
+<img src="/images/VredrayAlpha1.png" alt="3D Render of Guitar" style="height: 100px; width:100px;"/>
