@@ -1,7 +1,7 @@
 # Acoustic Guitar Orchestra Model Version 1
 <img src="/images/GuitarRender.png" alt="3D Render of Guitar" style="height: 200px;"/>
 
-This is a custom designed acoustic guitar. It's an Orchestra style guitar, meaning that it's a medium size guitar designed for both fingerpicking and strumming. The design is largely based off of the guitar in Jonathan Kinkead's book: "Build Your Own Acoustic Guitar" which I highly recommend. Because this was the first guitar I built, the design I came up with are mostly based on what were easiest for me.
+This is a custom designed acoustic guitar. It's an Orchestra style guitar, meaning that it's a medium size guitar designed for both fingerpicking and strumming. The design is largely based off of the guitar in Jonathan Kinkead's book: "Build Your Own Acoustic Guitar" which I highly recommend. Because this was the first guitar I built, the design I came up with is mostly based on what was easiest for me.
 ## CAD
 ### Guitar
 For a 3D model of the whole guitar, see [my post on grabcad](https://grabcad.com/library/acoustic-guitar-om-1-1). See Master Drawings.pdf for drawings of the guitar.
